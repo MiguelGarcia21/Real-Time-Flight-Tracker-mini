@@ -44,6 +44,10 @@ streamlit run flight_tracker_gui.py
 3. View aircraft on interactive map
 4. Examine detailed data in table
 
+<img width="298" height="521" alt="image" src="https://github.com/user-attachments/assets/bc69bdaa-1ff7-4e66-bcee-6c8e38de9d25" />
+<img width="1466" height="527" alt="image" src="https://github.com/user-attachments/assets/87035e29-63c4-4bd0-b986-e0492c9169b3" />
+
+
 ### Terminal Version
 ```bash
 python flight_tracker_terminal.py
@@ -76,3 +80,4 @@ BBOX = {
 - Map shows:
   - Green markers = airborne
   - Red markers = on ground
+<img width="815" height="642" alt="image" src="https://github.com/user-attachments/assets/894b1573-78a7-4cb7-ad12-33ae68f61832" />
